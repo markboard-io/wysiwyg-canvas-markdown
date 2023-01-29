@@ -1,0 +1,23 @@
+{
+  "name": "wysiwyg-canvas-markdown",
+  "version": "1.0.0",
+  "description": "WYSIWYG markdown editor rendering on canvas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnoDeck/wysiwyg-canvas-markdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InnoDeck/wysiwyg-canvas-markdown/issues"
+  },
+  "homepage": "https://github.com/InnoDeck/wysiwyg-canvas-markdown#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
